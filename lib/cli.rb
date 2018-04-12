@@ -366,6 +366,10 @@ def print_workouts
     puts "###### Description: #{workout.description}."
 
   end
+  stars
+  puts "You will be returned to the main menu in 5 seconds"
+  dash_line
+  sleep(5)
 end
 
 def print_by_category(cat)
