@@ -1,7 +1,7 @@
 # put info here
 require_relative "../config/environment.rb"
 
-10.times do
+10.times do 
 User.find_or_create_by(first_name: Faker::Name.first_name, last_name: Faker::Name.last_name, password: "password")
 end
 User.find_or_create_by(first_name: "q", last_name: "q", password: "q")
