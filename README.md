@@ -18,3 +18,8 @@ This CLI app is a great way to create, read, update and save workouts + exercise
 4. Add as many or as little workouts as you would like.   Favorite those that you want to do again.
 
 5. Lose that weight!
+#About the CLI
+* Created using Ruby OO
+* Uses active record to save data files
+* Comes with full CRUD capabilities
+##NOTE: please watch the video if you are looking for a quick demo. 
