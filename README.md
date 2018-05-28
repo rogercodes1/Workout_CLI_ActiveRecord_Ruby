@@ -21,6 +21,7 @@ This CLI app is a great way to create, read, update and save workouts + exercise
 
 
 ###About the CLI
+
 * Created using Ruby OO
 * Uses active record to save data files
 * Comes with full CRUD capabilities
